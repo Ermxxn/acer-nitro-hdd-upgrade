@@ -1,7 +1,3 @@
-# acer-nitro-hdd-upgrade
-A practical hardware modification project demonstrating laptop disassembly, component installation, and Windows disk management
-
-
 # Acer Nitro 5 (AN515-57) Storage Upgrade 🛠️
 
 A step-by-step documentation of a hardware storage upgrade on an Acer Nitro 5 gaming laptop. This project demonstrates practical hardware handling, system disassembly, component installation, and software-level disk initialization.
