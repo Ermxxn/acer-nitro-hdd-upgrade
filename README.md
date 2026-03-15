@@ -44,7 +44,7 @@ Mounted the Seagate HDD into the caddy and secured it back into the chassis. Con
 ### 5. Motherboard Connection
 Delicately routed the SATA ribbon cable and seated the connector into the motherboard's HDD port, ensuring the locking mechanism was fully secured to prevent data corruption from a loose connection.
 
-![Motherboard Connection](images/installation-complete.jpg)
+![Motherboard Connection](images/installation-completed.jpg)
 
 ### 6. Reassembly
 Reattached the bottom chassis, ensuring all clips snapped back into place and all screws were re-seated firmly.
